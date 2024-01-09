@@ -5,3 +5,12 @@
 Console.WriteLine("Enter a numbers:");
 int a = int.Parse(Console.ReadLine()!);
 int b = int.Parse(Console.ReadLine()!);
+
+if (a % b == 0)
+{
+    Console.WriteLine("CRATNO")
+}
+else
+{
+     Console.WriteLine("NECRATNO")
+}
