@@ -15,3 +15,4 @@ else
        Console.WriteLine("Eror");
     }
 }
+//int result = a / 100 % 10;
