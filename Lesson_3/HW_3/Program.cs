@@ -54,3 +54,4 @@ double[] mass = MassNums(num, start, stop);
 Print(mass);
 
 DiffMaxMin(mass);
+

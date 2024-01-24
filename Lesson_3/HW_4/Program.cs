@@ -28,7 +28,7 @@ Print("element : " + num);
 }
 else{
 Print("ERROR! Number < 0 or > 100.000");
-}
+}*
 }
 static void Print(string res) { //функция выводящая результат на экран
 Console.WriteLine(res);
