@@ -47,3 +47,15 @@ return result;
 }
 }
 }
+
+//ong CountNum(int[] arr)
+//{
+//string word = "";
+
+//foreach (int number in arr)
+//{
+//word += number;
+//}
+
+//return long.Parse(word);
+//}
